@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-jaiswal-838&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-jaiswal-838" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AI, RAG, LLM**
 
-- 💬 Ask me about **DSA, HTML5, CSS3, JAVA**
+- 💬 Ask me about **React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Java, DSA**
 
-- 📫 How to reach me **sj805217@gmail.com**
+- 📫 How to reach me **shubhamjaiswal2606@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
